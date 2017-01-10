@@ -1,2 +1,3 @@
 #README3
 TEST PLIK
+Zmiana z 08.01/2017
