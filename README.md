@@ -1,3 +1,3 @@
 # README
 TEST PLIK
-Zmiaba z 08.01/2017
+Zmiana z 08.01/2017
